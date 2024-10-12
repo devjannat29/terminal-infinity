@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-stack web developer from Bangladesh</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **learning Backend Technologis.**<br><br>- 🌱 I’m currently learning **Laravel PHP**<br><br>- 💬 Ask me about **PHP Laravel MySQL**<br><br>- 📫 How to reach me **terminalinfinity28@gmail.com**
+- 🔭 I’m currently working on **Backend Technologis.**<br><br>- 🌱 I’m currently learning **Laravel & PHP**<br><br>- 💬 Ask me about **PHP Laravel MySQL**<br><br>- 📫 How to reach me **terminalinfinity28@gmail.com**
 
 
 ## 🌐 Socials:
